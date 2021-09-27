@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+ul,ol{
+    list-style-type: none;
+}
+body{
+    background-color: #353535;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.clock{
+    font-size: 150px;
+    font-family: 'Poppins', sans-serif;
+    color: #ff2e2e;
+    font-weight: 700;
+    font-style: italic;
+}
